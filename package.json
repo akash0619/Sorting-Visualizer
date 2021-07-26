@@ -1,7 +1,7 @@
 {
   "name": "sorting-visualizer",
   "version": "0.1.0",
-  "homepage": "https://akashz19.github.io/SortViz/",
+  "homepage": "https://akashz19.github.io/Sorting-Visualizer",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.3.1",
